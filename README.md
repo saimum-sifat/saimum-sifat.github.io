@@ -4,7 +4,7 @@ I enjoy traveling and continuous learning, and I’m focused on building skills 
 Currently working with: HTML • CSS • JavaScript
 <hr/>
 <footer>
-  <a href="https://saimum-sifat.github.io/my-resume/"> My Resume</a> |
+  <a href="https://saimum-sifat.github.io/my-resume/"> My resume</a> |
   <a href="https://www.linkedin.com/in/saimumsifat/">Linkedin</a> |
   <a href="https://www.facebook.com/saimumsifat">Facebook</a> |
   <a href="https://x.com/saimumsifat">Twitter</a> |
